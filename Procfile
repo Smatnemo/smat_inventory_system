@@ -1,0 +1,1 @@
+web: gunicorn smat_inventory_system.wsgi
